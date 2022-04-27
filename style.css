@@ -1,0 +1,43 @@
+Header-class {
+  Font-family: sans-serif;
+  color: white;
+
+padding: 60px;
+
+  margin: 20px;
+background-color: royalblue;
+  border: dotted 9px yellowgreen;
+  text-align: center;
+}
+
+summary-class {
+  background-color: yellowgreen;
+  border: 9px dotted white;
+  padding: 60px;
+  margin: 20px;
+}
+
+extracurriculars {
+  background-color: lightgreen;
+  margin: 20px
+  padding: 30px
+}
+
+
+
+
+
+
+
+
+
+
+#footer-class {
+  background-color: lightblue;
+  color: lightblue;
+  padding: 20px;
+}
+
+body{
+  font-family: 'Courier New'
+}
