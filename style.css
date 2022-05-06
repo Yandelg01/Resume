@@ -7,37 +7,37 @@
   padding: 60px; 
 /*   Margin is outside space */
   margin: 20px;
-  background-color: royalblue;
-  border: dotted 9px yellowgreen;
+  background-color: powderblue;
+  border: dotted 9px black;
   text-align: center;
 }
 
 .summary-class { /* class selection*/
-  background-color: yellowgreen; 
+  background-color: indianred; 
   border: 9px dotted white; 
   padding: 60px;
   margin: 20px;
 }
 
 .extracurriculars {
-  background-color: lightgreen;
+  background-color: hotpink;
   margin: 20px;
   padding: 30px;
 }
 
 .new-section {
   background-color: #fcba03;
-  color: darkslategray;
+  color: blueviolet;
   margin: 20px;
 }
 
 #skill-list {
-    background-image: linear-gradient(to right, magenta , royalblue);
+    background-image: linear-gradient(to right, greenyellow , gray);
 
 }
 
 #footer-class { /* id selection*/
-  background-color: lightcoral;
+  background-color: gold;
   color: white;
   padding: 20px;
 }
@@ -56,8 +56,8 @@ body {
 
 
 #footer-class {
-  background-color: lightblue;
-  color: lightblue;
+  background-color: lightgoldenrodyellow;
+  color: black;
   padding: 20px;
 }
 
