@@ -1,26 +1,49 @@
-Header-class {
-  Font-family: sans-serif;
+/*  */
+
+.header-class {
+  font-family: sans-serif;
   color: white;
-
-padding: 60px;
-
+/*   Padding is inside space */
+  padding: 60px; 
+/*   Margin is outside space */
   margin: 20px;
-background-color: royalblue;
+  background-color: royalblue;
   border: dotted 9px yellowgreen;
   text-align: center;
 }
 
-summary-class {
-  background-color: yellowgreen;
-  border: 9px dotted white;
+.summary-class { /* class selection*/
+  background-color: yellowgreen; 
+  border: 9px dotted white; 
   padding: 60px;
   margin: 20px;
 }
 
-extracurriculars {
+.extracurriculars {
   background-color: lightgreen;
-  margin: 20px
-  padding: 30px
+  margin: 20px;
+  padding: 30px;
+}
+
+.new-section {
+  background-color: #fcba03;
+  color: darkslategray;
+  margin: 20px;
+}
+
+#skill-list {
+    background-image: linear-gradient(to right, magenta , royalblue);
+
+}
+
+#footer-class { /* id selection*/
+  background-color: lightcoral;
+  color: white;
+  padding: 20px;
+}
+
+body {
+  font-family: 'Courier New';
 }
 
 
